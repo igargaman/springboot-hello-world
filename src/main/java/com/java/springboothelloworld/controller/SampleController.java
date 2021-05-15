@@ -8,6 +8,6 @@ public class SampleController
 @RequestMapping("/")  
 public String hello()   
 {  
-return "Hello javaTpoint";  
+return "Hello World!";  
 }  
 }  
